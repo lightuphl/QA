@@ -1,5 +1,7 @@
+<link rel="stylesheet" href="lightup.css">
 # 代購流程
 
+<font color="#1b4be6">字顏色</span>
 註一 : 銀行臨櫃匯款、便利商店 ATM機轉帳、郵局無摺匯款、手機APP轉帳，都可以。
 
 註二：截止時間內未填單，將取消訂購並退款70%。
