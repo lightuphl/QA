@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="lightup.css">
 # 付款問題
 
-<span class="red">Q1：匯款跟轉帳一樣嗎?</span>
+<font color="#1b4be6">Q1：匯款跟轉帳一樣嗎?</font>
 
 A：匯款是到銀行臨櫃辦理，轉帳是操作ATM機，都是可以付款的方式，只是使用的名詞不同。
 

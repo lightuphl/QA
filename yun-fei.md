@@ -2,7 +2,7 @@
 
 # 運費
 
-<font color="#1b4be6">字顏色</span>
+<font color="#1b4be6">字顏色</font>
 
 Q1：假如忘記到7-11領取商品了該怎麼辦？
 
