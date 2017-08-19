@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="lightup.css">
+
 # 跟團須知
 
 大家在私訊詢問代購時，請告知購買人姓名及代購商品名稱，方便我們查詢 。
