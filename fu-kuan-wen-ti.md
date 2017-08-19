@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="lightup.css">
 # 付款問題
 
 <span class="red">Q1：匯款跟轉帳一樣嗎?</span>
