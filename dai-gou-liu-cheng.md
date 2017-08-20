@@ -1,6 +1,8 @@
 <link rel="stylesheet" href="lightup.css">
+![](/assets/橫幅1.jpg)
 
 # 代購流程
+![](/assets/1.5.jpg)
 
 * 註一 : 銀行臨櫃匯款、便利商店 ATM機轉帳、郵局無摺匯款、手機APP轉帳，都可以。
 
