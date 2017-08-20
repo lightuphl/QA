@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="lightup.css">
-
+![](/assets/橫幅1.jpg)
 # 運費問題
 
 <font color="#1b4be6">Q1：假如忘記到7-11領取商品了該怎麼辦？</font>
