@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="lightup.css">
 ![](/assets/Highlight Taiwan Fan Site.jpg)
 
 # 跟團須知
