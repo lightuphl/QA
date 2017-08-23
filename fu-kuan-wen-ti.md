@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="lightup.css">
-
 ![](/assets/橫幅1.jpg)
 
 # 付款問題
