@@ -1,5 +1,3 @@
-<head><link href="lightup.css" rel="stylesheet"></head>
-
 # 跟團須知
 
 ![](/assets/170616 表單公告.jpg)
