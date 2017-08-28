@@ -1,3 +1,5 @@
+![](/assets/Highlight Taiwan Fan Site.jpg)
+
 # 聯絡我們
 ![](/assets/facebook.png) <a href="https://www.facebook.com/LightupHL/" class="contect"> lightupHL </a>
 
