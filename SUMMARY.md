@@ -6,5 +6,5 @@
 * [3. 付款問題](fu-kuan-wen-ti.md)
 * [4. 如何填單？](ru-he-tian-dan-ff1f.md)
 * [5. 運費問題](yun-fei.md)
-* [聯絡我們](lian-luo-wo-men.md)
+* [6. 聯絡我們](lian-luo-wo-men.md)
 
