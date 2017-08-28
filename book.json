@@ -1,7 +1,7 @@
 {
     "styles": {
-        "website": "website.css",
-        "ebook": "ebook.css",
+        "website": "lightup.css",
+        "ebook": "lightup.css",
         "pdf": "pdf.css",
         "mobi": "mobi.css",
         "epub": "epub.css"
