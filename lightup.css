@@ -19,3 +19,10 @@
 
 .contect { vertical-align:middle; font-size:17px;}
 img { vertical-align:middle;}
+
+@media (max-width: 1020px){
+	.navbox a{ width:48%; margin:20px 1%;}
+}
+@media (max-width: 600px){
+	.navbox a{ width:96%; margin:10px 2%;}
+}
