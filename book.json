@@ -1,0 +1,9 @@
+{
+    "styles": {
+        "website": "lightup.css",
+        "ebook": "ebook.css",
+        "pdf": "pdf.css",
+        "mobi": "mobi.css",
+        "epub": "epub.css"
+    }
+}

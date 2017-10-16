@@ -1,1 +1,29 @@
-.red {color:#e61b1b;}
+.navbox { margin-top:30px;}
+.navbox a{ width:31%; height:120px; line-height: 120px; margin:20px 1%; float:left;
+	 text-align:center; text-decoration:none; color:#fff;
+	  font-size:30px; border-radius:5px;
+}
+.navbox a:hover {box-shadow:0 3px 6px rgba(0,0,0,.2);}
+.navbox span { width:20px; height:20px; margin:-10px 10px 20px 0; display:inline-block;vertical-align: top;
+	font-family: Arial; font-size:50px;
+}
+.navbox b {font-family: "Microsoft JhengHei", Arial;}
+.navbox i { font-size:50px; margin:0px 10px 0 3px; display:inline-block;}
+
+.navbox a:nth-child(1) { background-color:#E75364;}
+.navbox a:nth-child(2) { background-color:#4DBCE3;}
+.navbox a:nth-child(3) { background-color:#47CBAB;}
+.navbox a:nth-child(4) { background-color:#ffbc0e;}
+.navbox a:nth-child(5) { background-color:#A98FE8;}
+.navbox a:nth-child(6) { background-color:#E784BB;}
+
+.contect { vertical-align:middle; font-size:17px;}
+img { vertical-align:middle;}
+
+@media (max-width: 1020px){
+	.navbox a{ width:48%; margin:20px 1%;}
+}
+@media (max-width: 600px){
+	.navbox a{ width:96%; margin:10px 2%;}
+}
+
