@@ -1,4 +1,3 @@
-<link href="lightup.css" rel="stylesheet">
 ![](/assets/大標1.jpg)
 
 # 代購指南
