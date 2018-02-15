@@ -9,6 +9,5 @@
 	<a href="https://lightup.gitbooks.io/question/content/ru-he-tian-dan-ff1f.html"><span>4</span><i>/</i><b>如何填單</b></a>
 	<a href="https://lightup.gitbooks.io/question/content/yun-fei.html"><span>5</span><i>/</i><b>運費問題</b></a>
 	<a href="https://lightup.gitbooks.io/question/content/lian-luo-wo-men.html"><span>6</span><i>/</i><b>聯絡我們</b></a>
-	<a href="https://www.facebook.com/LightupHL/">lightupHL</a>
 </div>
 
