@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [★ 代購指南 ★](README.md)
 * [1. 跟團須知](gen-tuan-xu-zhi.md)

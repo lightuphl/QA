@@ -1,8 +1,12 @@
-![](/assets/Highlight Taiwan Fan Site.jpg)
+# 6. 聯絡我們
 
-# 聯絡我們
-![](/assets/facebook.png) <a href="https://www.facebook.com/LightupHL/" class="contect"> lightupHL </a>
+![](.gitbook/assets/highlight-taiwan-fan-site.jpg)
 
-![](/assets/twitter.png) <a href="https://twitter.com/LightUP_HL" class="contect"> lightup-hl </a>
+## 聯絡我們
 
-![](/assets/email.png) <span class="contect"> lightup0224@gmail.com <span>
+![](.gitbook/assets/facebook.png)  [lightupHL](https://www.facebook.com/LightupHL/)
+
+![](.gitbook/assets/twitter.png)  [lightup-hl](https://twitter.com/LightUP_HL)
+
+![](.gitbook/assets/email.png)  lightup0224@gmail.com 
+
